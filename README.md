@@ -32,7 +32,7 @@ This project focuses on the **early prediction of Alzheimer's Disease (AD)** usi
 ### Setup
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/SahilChaudhary17/G28-AlzheimersResViT
+git clone https://github.com/meetjoysar/ResNet-ViT-AD
 ```
 
 2. **Create a Virtual Environment (Optional):**
